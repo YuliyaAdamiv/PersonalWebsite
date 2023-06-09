@@ -75,9 +75,6 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    Highly interesting in jobs with creative teams which going
-                    to create something new and great while working a
-                    team-oriented environment. <br />
                     My dream job would allow me to make a positive impact on
                     people every day. I would love to work for a company like
                     yours that makes time-saving and life-enriching products
