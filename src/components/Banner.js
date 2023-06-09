@@ -83,7 +83,10 @@ export const Banner = () => {
                     more efficient.
                   </p>
                   <button onClick={() => console.log('connect')}>
-                    Let’s Connect <ArrowRightCircle size={25} />
+                    Let’s Connect{' '}
+                    <a href="https://t.me/yuliya_adamiv">
+                      <ArrowRightCircle size={25} />
+                    </a>
                   </button>
                 </div>
               )}
